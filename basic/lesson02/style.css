@@ -1,0 +1,24 @@
+header {
+    background-color: #dea;
+    height: 100px;
+}
+
+.content {
+    display: flex;
+}
+
+.content main {
+    background-color: #afa1ff;
+    flex-grow: 1;
+    height: 1000px;
+}
+
+.content aside {
+    flex-basis: 400px;
+    background-color: #ff0013;
+}
+
+footer {
+    background-color: #aa33cc;
+    height: 100px;
+}
